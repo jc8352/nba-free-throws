@@ -1,7 +1,7 @@
-## NBA Free Throws Prediction Project
+## NBA Free Throws
 
 ### Overview
-The NBA Free Throws Prediction Project aims to predict player free throw attempts based on the types of shots they attempt. Using these predictions, the project determines which players and teams take the most free throws above expected.
+This project aims to predict player free throw attempts based on the types of shots they attempt. Using these predictions, the project determines which players and teams take the most free throws above expected.
 
 ### Project Structure
 ```plain
